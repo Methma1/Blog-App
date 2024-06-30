@@ -1,5 +1,4 @@
 import mongoose from "mongoose";
-import { Type } from "react-toastify/dist/utils";
 
 const Schema = new mongoose.Schema({
     title:{
